@@ -4,9 +4,19 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        foreach (var e in Enum.GetValues(typeof(EmployeeType)))
+        var day = 3;
+        switch (day)
         {
-            Console.WriteLine(e);
+            case 1:
+                Console.WriteLine("Monday");
+                break;
+            case 2:
+                Console.WriteLine("Tuesday");
+                break;
+            case 3:
+                Console.WriteLine("Wednesday");
+                break;
+
         }
     }
 }
