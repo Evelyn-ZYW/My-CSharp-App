@@ -12,3 +12,4 @@
 /Users/bunnyroll/Documents/Coding Exercise/MyCSharpApp/obj/Debug/net9.0/MyCSharpApp.pdb
 /Users/bunnyroll/Documents/Coding Exercise/MyCSharpApp/obj/Debug/net9.0/MyCSharpApp.genruntimeconfig.cache
 /Users/bunnyroll/Documents/Coding Exercise/MyCSharpApp/obj/Debug/net9.0/ref/MyCSharpApp.dll
+/Users/bunnyroll/Documents/Coding Exercise/MyCSharpApp/obj/Debug/net9.0/MyCSharpApp.sourcelink.json
